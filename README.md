@@ -9,4 +9,4 @@
 3. [Back-end](#section-back-end)
 
 
-## Общие
+## Common section
