@@ -4,6 +4,9 @@
 На изучение материала будет выделено конкретное время. Материал возможно будет разбиваться на спринты для того что бы была возможность отслеживать прогресс в обучении
 
 ## Содержание
-1. [Общие] (#section-common)
-2. [Front-end] (#section-front-end)
-3. [Back-end] (#section-back-end)
+1. [Общие](#section-common)
+2. [Front-end](#section-front-end)
+3. [Back-end](#section-back-end)
+
+
+## Общие
