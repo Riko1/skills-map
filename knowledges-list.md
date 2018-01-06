@@ -245,3 +245,4 @@ JavaScript
 ## Алгоритмы и структуры данных ##
 - [Курс "Алгоритмы и структуры данных" на Stepik.org](https://stepik.org/course/63/syllabus)
 - [10 типов структур данных, которые нужно знать + видео и упражнения](https://habrahabr.ru/company/netologyru/blog/334914/)
+- [Статьи по алгоритмам и структурам данных](http://kvodo.ru/data-structures-introduction.html)
