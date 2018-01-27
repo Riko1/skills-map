@@ -1,8 +1,8 @@
 # Общие #
 *Темы приведенные в данном разделе могут не относиться непосредственно к программированию и написанию кода. Темы охватываю необходимые навыки и знания для программиста.*
 
-[Первый](https://github.com/Riko1/skills-map/directions/first.md)
-[Второй](https://github.com/Riko1/skills-map/directions/second.md)
+[Первый](https://github.com/Riko1/skills-map/blob/master/directions/first.md)  
+[Второй](https://github.com/Riko1/skills-map/blob/master/directions/second.md)
 
 
 ## Направления ##
