@@ -5,7 +5,7 @@
 - [Алгоритмы и структуры данных](https://github.com/Riko1/skills-map/blob/master/sections/algorithm-and-data-structures.md)
 - [Системное администрирование](https://github.com/Riko1/skills-map/blob/master/sections/system-administration.md)
 - [Тестирование](https://github.com/Riko1/skills-map/blob/master/sections/testing.md)
-- [Безопасность](https://github.com/Riko1/skills-map/blob/master/sections/securuty.md)
+- [Безопасность](https://github.com/Riko1/skills-map/blob/master/sections/security.md)
 - [Английский язык](https://github.com/Riko1/skills-map/blob/master/sections/english.md) (Pre-Intermediate - Intermediate)
 - [Инструменты](https://github.com/Riko1/skills-map/blob/master/sections/instruments.md)
 
