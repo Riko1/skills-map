@@ -23,4 +23,4 @@
 	- удаленное исполнение кода (RCE); 
 
 ## Материалы ##
-...
+- [Hacksplaining — интерактивный курс по веб-уязвимостям](https://habrahabr.ru/company/pentestit/blog/327270/)
