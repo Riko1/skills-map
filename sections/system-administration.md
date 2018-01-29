@@ -20,6 +20,7 @@
 - [ ] OS Linux (Уровень: продвинутый пользователь)
 - [ ] DNS
 - [ ] Протоколы (HTTP, HTTPS, ...)
+- [ ] CDN
 - [ ] PHP-FPM
 - [ ] Протоколы: SSH, SSL, TLS
 - [ ] Веб форматы (JSON, JSONP, XML)
