@@ -33,5 +33,14 @@
 	- Нормализация / Денормализация
 
 ## Материалы ##
+- Принципы проектирования
+	- SOLID
+		- DIP
+			- [Путь к Dependency Injection](https://www.youtube.com/watch?v=AxZLJA84_74)
+			- [Dependency Injection и Service Locator в Yii 2](https://www.youtube.com/watch?v=5WdKLW3vCQ4)
 - Архитектура приложения
-	- [Мартин Фаулер. Шаблоны корпоративных приложений.](https://www.ozon.ru/context/detail/id/4884925/)
+	- Видео
+		- [Архитектура веб приложений: экстерьер ч.1](https://www.youtube.com/watch?v=NI7FY9is62g)
+		- [Архитектура PHP-приложения: интерьер x.2](https://www.youtube.com/watch?v=yc8vRd-C0Y0)
+	- Книги
+		- [Мартин Фаулер. Шаблоны корпоративных приложений.](https://www.ozon.ru/context/detail/id/4884925/)
