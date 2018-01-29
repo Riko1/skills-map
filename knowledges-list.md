@@ -10,6 +10,9 @@
 - [Инструменты](https://github.com/Riko1/skills-map/blob/master/sections/instruments.md)
 
 
+## Must-Read ##
+- Стив Макконнелл. Совершенный код.
+
 ## Организация процесса разработки ##
 - Методологии разработки
 	- Scrum
