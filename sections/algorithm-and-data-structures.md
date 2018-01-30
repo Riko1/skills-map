@@ -26,6 +26,6 @@
 	- [ ] [Статья: Алгоритмы (Wikipedia)](https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC)
 	- [ ] [Статья: Пузырьковая сортировка и все-все-все (Habrahabr)](https://habrahabr.ru/post/204600/)
 - Структуры данных
-	- [ ] [Статься с видео: 10 типов структур данных, которые нужно знать + видео и упражнения (Habrahabr)](https://habrahabr.ru/company/netologyru/blog/334914/)
+	- [ ] [Статья/Видео: 10 типов структур данных, которые нужно знать + видео и упражнения (Habrahabr)](https://habrahabr.ru/company/netologyru/blog/334914/)
 - [ ] [Курс: Алгоритмы и структуры данных (Stepik)](https://stepik.org/course/63/syllabus)
-- [ ] [Статьи по алгоритмам и структурам данных](http://kvodo.ru/data-structures-introduction.html)
+- [ ] [Статья: Статьи по алгоритмам и структурам данных](http://kvodo.ru/data-structures-introduction.html)
