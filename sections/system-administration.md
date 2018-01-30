@@ -27,6 +27,8 @@
     - [ ] Bash ( + написание Bash-скриптов)
     - [ ] OS Linux (Уровень: продвинутый пользователь)
     - [ ] PHP-FPM
+    - [ ] CGI
+    - [ ] FastCGI
 - [ ] AJAX (как работает, что из себя представляет и что это вообще такое)
 - [ ] RIA - Rich Internet application
 
@@ -38,6 +40,9 @@
         - [ ] [Статья: HTTP: протокол, который каждый разработчик должен знать (часть 1)](https://ruseller.com/lessons.php?rub=28&id=1726)
         - [ ] [Статья: HTTP: протокол, который каждый разработчик должен знать (часть 2)](https://ruseller.com/lessons.php?rub=28&id=1777)
 - Администрирование
+	- [ ] Настройка и администрирование серверов, понимание принципа работы (Apache, Nginx)
+		- [ ] [Статья: Веб-сервер (Wikipedia)](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%B1-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80)
+		- [ ] [Статья: Модели работы веб-серверов. Треды, процессы, модули](http://algolist.manual.ru/web/servers.php)
     - Bash
         - [ ] [Курс: Bash: Основы командной строки (Курс от Hexlet)](https://ru.hexlet.io/courses/bash)
         - [ ] [Статья: Искусство командной строки](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md)
