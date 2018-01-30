@@ -13,6 +13,20 @@
 - [ ] Уверенно использование инструментов
 
 ## Темы ##
+- Языки
+	- PHP
+	- Python
+	- C / C++ / C# (Ознакомление)
+	- SQL
+		- DDL, DML, DQL
+		- Схема (SCHEMA)
+		- Представления (VIEWS)
+		- WHERE
+		- LIMIT, OFFSET
+		- ORDER BY
+		- GROUP BY
+		- JOIN
+		- Подзапросы
 - Технологии
 	- WebSocket
 - СУБД
@@ -28,4 +42,10 @@
 - RabbitMQ
 
 ## Материалы ##
-...
+- Языки
+	- [ ] SQL
+		- DDL, DML, DQL
+			- [ ] [Курс: Базы данных: SQL (DDL/DML) (Hexlet)](https://ru.hexlet.io/courses/postgresql-ddl)
+			- [ ] [Курс: Базы данных: SQL (DQL) (Hexlet)](https://ru.hexlet.io/courses/sql-dql)
+		- [ ] [Статья: Схема базы данных](https://ru.wikipedia.org/wiki/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%B1%D0%B0%D0%B7%D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
+		- [ ] [Статья: Представления (VIEW) в MySQL](https://habrahabr.ru/post/47031/)
