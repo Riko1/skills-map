@@ -15,6 +15,8 @@
 ## Темы ##
 - Языки
 	- PHP
+	- Javascript
+		- NodeJs
 	- Python
 	- C / C++ / C# (Ознакомление)
 	- SQL
@@ -29,6 +31,7 @@
 		- Подзапросы
 - Менеджеры пакетов
 	- Composer
+	- npm
 - Технологии
 	- WebSocket
 - СУБД
@@ -45,6 +48,9 @@
 
 ## Материалы ##
 - Языки
+	- Javascript
+		- NodeJs
+			- [ ] [Скринкаст: Скринкаст NODE.JS](https://learn.javascript.ru/screencast/nodejs)
 	- [ ] SQL
 		- DDL, DML, DQL
 			- [ ] [Курс: Базы данных: SQL (DDL/DML) (Hexlet)](https://ru.hexlet.io/courses/postgresql-ddl)
