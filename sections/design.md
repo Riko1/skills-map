@@ -40,6 +40,7 @@
 			- [ ] [Видео: Путь к Dependency Injection](https://www.youtube.com/watch?v=AxZLJA84_74)
 			- [ ] [Видео: Dependency Injection и Service Locator в Yii 2](https://www.youtube.com/watch?v=5WdKLW3vCQ4)
 - Паттерны проектирования
+	- [ ] [Видео: Что такое паттерны (Hexlet)](https://www.youtube.com/watch?v=wX6BBaQZpzE)
 	- [ ] [Статья: Шпаргалка по шаблонам проектирования (Habrahabr)](https://habrahabr.ru/post/210288/)
 	- [ ] [Статьи: Паттерны проектирования (**крутая подборка паттернов**)](http://design-pattern.ru/)
 - Архитектура приложения
