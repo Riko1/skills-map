@@ -7,7 +7,6 @@
 - [Тестирование](https://github.com/Riko1/skills-map/blob/master/sections/testing.md)
 - [Безопасность](https://github.com/Riko1/skills-map/blob/master/sections/security.md)
 - [Английский язык](https://github.com/Riko1/skills-map/blob/master/sections/english.md) (Pre-Intermediate - Intermediate)
-- [Deployment](https://github.com/Riko1/skills-map/blob/master/sections/deployment.md)
 - [Инструменты](https://github.com/Riko1/skills-map/blob/master/sections/instruments.md)
 
 
@@ -41,6 +40,9 @@
 - Составление ТЗ
 - Написание документации (+ автодок для PHPDoc)
 
+## Deployment ##
+- [Статья: Версионная миграция структуры базы данных: основные подходы (Habrahabr)](https://habrahabr.ru/post/121265/)
+- [Статья: Нумерация версий ПО для новичков и не только (Habrahabr)](https://habrahabr.ru/post/119400/)
 
 # FrontEnd #
 *Работа на front-end стороне, принципы разработки, верстка, технологии верстки (сборщики, плагины к ним и т.д.)*
