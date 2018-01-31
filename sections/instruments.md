@@ -52,4 +52,5 @@
 		- [ ] [Статья: Схема базы данных](https://ru.wikipedia.org/wiki/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%B1%D0%B0%D0%B7%D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
 		- [ ] [Статья: Представления (VIEW) в MySQL](https://habrahabr.ru/post/47031/)
 - Менеджеры пакетов
-	- [ ] [Статья: Composer — менеджер зависимостей для PHP (Habrahabr)](https://habrahabr.ru/post/145946/)
+	- Composer
+		- [ ] [Статья: Composer — менеджер зависимостей для PHP (Habrahabr)](https://habrahabr.ru/post/145946/)
