@@ -9,7 +9,7 @@
 - [Английский язык](https://github.com/Riko1/skills-map/blob/master/sections/english.md) (Pre-Intermediate - Intermediate)
 - [Инструменты](https://github.com/Riko1/skills-map/blob/master/sections/instruments.md)
 
-## План изучения материала ##
+## План изучения материала (темы | ресурса) ##
 - Теория
 	- Статьи / видео / курсы и т.д.
 	- Создание карточек (Anki)
