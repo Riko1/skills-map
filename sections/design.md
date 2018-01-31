@@ -41,6 +41,7 @@
 			- [ ] [Видео: Dependency Injection и Service Locator в Yii 2](https://www.youtube.com/watch?v=5WdKLW3vCQ4)
 - Паттерны проектирования
 	- [ ] [Статья: Шпаргалка по шаблонам проектирования (Habrahabr)](https://habrahabr.ru/post/210288/)
+	- [ ] [Статьи: Паттерны проектирования (**крутая подборка паттернов**)](http://design-pattern.ru/)
 - Архитектура приложения
 	- [ ] [Видео: Архитектура веб приложений: экстерьер ч.1](https://www.youtube.com/watch?v=NI7FY9is62g)
 	- [ ] [Видео: Архитектура PHP-приложения: интерьер x.2](https://www.youtube.com/watch?v=yc8vRd-C0Y0)
