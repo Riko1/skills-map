@@ -21,6 +21,7 @@
     - [ ] Модель OSI
     - [ ] DNS
     - [ ] CDN
+    - [ ] VPN / VPS
     - [ ] Протоколы (HTTP, HTTPS, ...)
     - [ ] Протоколы: SSH, SSL, TLS
     - [ ] Веб форматы (JSON, JSONP, XML)
