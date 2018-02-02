@@ -44,9 +44,10 @@
 			- [ ] [Видео: Путь к Dependency Injection](https://www.youtube.com/watch?v=AxZLJA84_74)
 			- [ ] [Видео: Dependency Injection и Service Locator в Yii 2](https://www.youtube.com/watch?v=5WdKLW3vCQ4)
 - Паттерны проектирования
+	- [ ] [Статьи: Паттерны проектирования (**крутая подборка паттернов**)](http://design-pattern.ru/)
+	- [ ] [Обзор паттернов проектирования (**крутая подборка паттернов**)](http://citforum.ru/SE/project/pattern/)
 	- [ ] [Видео: Что такое паттерны (Hexlet)](https://www.youtube.com/watch?v=wX6BBaQZpzE)
 	- [ ] [Статья: Шпаргалка по шаблонам проектирования (Habrahabr)](https://habrahabr.ru/post/210288/)
-	- [ ] [Статьи: Паттерны проектирования (**крутая подборка паттернов**)](http://design-pattern.ru/)
 - Архитектура приложения
 	- [ ] [Архитектура программного обеспечения](https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)
 	- [ ] [Видео: Архитектура веб приложений: экстерьер ч.1](https://www.youtube.com/watch?v=NI7FY9is62g)
