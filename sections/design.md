@@ -26,9 +26,10 @@
 			- Проектирование основных модулей / компонентов / частей системы
 			- Проектирование классов (свойства, методы, состояния, взяимосвязи)
 	- [ ] Паттерны проектирования
-	- [ ] Арихитектурные паттерны
-		- MV*
-		- . . .
+	- [ ] Арихитектура
+		- Архитектурные паттерны
+			- MV*
+			- . . .
 	- [ ] Микросервисная архитектура
 - [ ] Проектирование БД
 	- Связи
@@ -51,21 +52,16 @@
 - Проектирование
 	- [ ] [Статья: Методические основы технологий создания ПО](http://citforum.ru/programming/application/program/1.shtml)
 	- [ ] [Статья: Шаблон проектирования (Wikipedia)](https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
-- Принципы проектирования
-	- [ ] SOLID
-		- [ ] DIP
-			- [ ] [Видео: Путь к Dependency Injection](https://www.youtube.com/watch?v=AxZLJA84_74)
-			- [ ] [Видео: Dependency Injection и Service Locator в Yii 2](https://www.youtube.com/watch?v=5WdKLW3vCQ4)
-- Паттерны проектирования
-	- [ ] [Статья: Паттерны проектирования (**крутая подборка паттернов**)](http://design-pattern.ru/)
-	- [ ] [Статья: Обзор паттернов проектирования (**крутая подборка паттернов**)](http://citforum.ru/SE/project/pattern/)
-	- [ ] [Видео: Что такое паттерны (Hexlet)](https://www.youtube.com/watch?v=wX6BBaQZpzE)
-	- [ ] [Статья: Шпаргалка по шаблонам проектирования (Habrahabr)](https://habrahabr.ru/post/210288/)
-- Архитектура приложения
-	- [ ] [Архитектура программного обеспечения](https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)
-	- [ ] [Видео: Архитектура веб приложений: экстерьер ч.1](https://www.youtube.com/watch?v=NI7FY9is62g)
-	- [ ] [Видео: Архитектура PHP-приложения: интерьер x.2](https://www.youtube.com/watch?v=yc8vRd-C0Y0)
-	- [ ] [Книга: *Мартин Фаулер.* Шаблоны корпоративных приложений.](https://www.ozon.ru/context/detail/id/4884925/)
+	- Паттерны проектирования
+		- [ ] [Статья: Паттерны проектирования (**крутая подборка паттернов**)](http://design-pattern.ru/)
+		- [ ] [Статья: Обзор паттернов проектирования (**крутая подборка паттернов**)](http://citforum.ru/SE/project/pattern/)
+		- [ ] [Видео: Что такое паттерны (Hexlet)](https://www.youtube.com/watch?v=wX6BBaQZpzE)
+		- [ ] [Статья: Шпаргалка по шаблонам проектирования (Habrahabr)](https://habrahabr.ru/post/210288/)
+	- Архитектура
+		- [ ] [Архитектура программного обеспечения](https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)
+		- [ ] [Видео: Архитектура веб приложений: экстерьер ч.1](https://www.youtube.com/watch?v=NI7FY9is62g)
+		- [ ] [Видео: Архитектура PHP-приложения: интерьер x.2](https://www.youtube.com/watch?v=yc8vRd-C0Y0)
+		- [ ] [Книга: *Мартин Фаулер.* Шаблоны корпоративных приложений.](https://www.ozon.ru/context/detail/id/4884925/)
 - Проектирование баз данных
 	- [ ] [Статья: Проектирование баз данных (Wikipedia)](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B1%D0%B0%D0%B7_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
 	- [ ] [Статья: Нормальная форма (Wikipedia)](https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D0%B0)
@@ -74,3 +70,8 @@
 	- [ ] [Статья: Денормализация БД. Зачем? Когда? Как? (Habrahabr)](https://habrahabr.ru/post/64524/)
 - Антипаттерны
 	- [ ] [Статья: Антипаттерн (Wikipedia)](https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%BF%D0%B0%D1%82%D1%82%D0%B5%D1%80%D0%BD)
+- Принципы проектирования
+	- [ ] SOLID
+		- [ ] DIP
+			- [ ] [Видео: Путь к Dependency Injection](https://www.youtube.com/watch?v=AxZLJA84_74)
+			- [ ] [Видео: Dependency Injection и Service Locator в Yii 2](https://www.youtube.com/watch?v=5WdKLW3vCQ4)
