@@ -7,6 +7,7 @@
 - [Тестирование](https://github.com/Riko1/skills-map/blob/master/sections/testing.md)
 - [Безопасность](https://github.com/Riko1/skills-map/blob/master/sections/security.md)
 - [Инструменты](https://github.com/Riko1/skills-map/blob/master/sections/instruments.md)
+- [Профессионализм](https://github.com/Riko1/skills-map/blob/master/sections/professionalism.md)
 - [Английский язык](https://github.com/Riko1/skills-map/blob/master/sections/english.md) (Pre-Intermediate - Intermediate)
 
 ## План изучения материала ##
