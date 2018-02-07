@@ -56,7 +56,7 @@
 		- [ ] [Статья: Паттерны проектирования (**крутая подборка паттернов**)](http://design-pattern.ru/)
 		- [ ] [Статья: Обзор паттернов проектирования (**крутая подборка паттернов**)](http://citforum.ru/SE/project/pattern/)
 		- [x] [Видео: Что такое паттерны (Hexlet)](https://www.youtube.com/watch?v=wX6BBaQZpzE)
-			- Неплохо. Рассказывается сама "суть" паттернов + рассматриваются такие понятия как DI (Dependency Injection) и IoC (Inversion of Control)
+			- _Неплохо. Рассказывается сама "суть" паттернов + рассматриваются такие понятия как DI (Dependency Injection) и IoC (Inversion of Control)_
 		- [ ] [Статья: Шпаргалка по шаблонам проектирования (Habrahabr)](https://habrahabr.ru/post/210288/)
 	- Архитектура
 		- [ ] [Архитектура программного обеспечения](https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)
