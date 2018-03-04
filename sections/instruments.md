@@ -17,9 +17,6 @@
 ## Темы ##
 - Языки
 	- Python
-	- PHP
-	- Javascript
-		- NodeJs
 	- C / C++ / C# (Ознакомление)
 	- SQL
 		- DDL, DML, DQL
@@ -31,13 +28,14 @@
 		- GROUP BY
 		- JOIN
 		- Подзапросы
+	- PHP
 - Менеджеры пакетов
 	- Composer
 	- npm
 - Технологии
 	- WebSocket
 - СУБД
-	- MySql
+	- MySql (То, как работет БД - индексы, внешние ключи, триггеры и т.д.)
 - Фреймворки
 	- PHP
 		- Yii2
@@ -50,9 +48,6 @@
 
 ## Материалы ##
 - Языки
-	- Javascript
-		- NodeJs
-			- [ ] [Скринкаст: Скринкаст NODE.JS](https://learn.javascript.ru/screencast/nodejs)
 	- [ ] SQL
 		- DDL, DML, DQL
 			- [ ] [Курс: Базы данных: SQL (DDL/DML) (Hexlet)](https://ru.hexlet.io/courses/postgresql-ddl)
