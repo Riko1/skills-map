@@ -17,7 +17,6 @@
 ## Темы ##
 - Языки
 	- Python
-	- C / C++ / C# (Ознакомление)
 	- SQL
 		- DDL, DML, DQL
 		- Схема (SCHEMA)
@@ -31,7 +30,6 @@
 	- PHP
 - Менеджеры пакетов
 	- Composer
-	- npm
 - Технологии
 	- WebSocket
 - СУБД
