@@ -16,10 +16,10 @@
 
 ## Темы ##
 - Языки
+	- Python
 	- PHP
 	- Javascript
 		- NodeJs
-	- Python
 	- C / C++ / C# (Ознакомление)
 	- SQL
 		- DDL, DML, DQL
